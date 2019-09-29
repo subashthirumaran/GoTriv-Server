@@ -3,9 +3,14 @@
     {
       "id": "5aa2a75693b33cda1e740407",
       "name": "Kneedles Soprano Resort",
+      "distance_from_venue": 500.23,
       "price_category": "medium",
-      "rating": 2,
-      "images": ["https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "rating": 2.39,
+      "images": [
+        "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "801 Ralph Avenue, 2981",
       "latitude": 51.5073509,
@@ -15,13 +20,24 @@
       "phone": "+32 (818) 409-2229",
       "description": "Tempor reprehenderit eu nisi sunt ex culpa ipsum Lorem laboris amet officia. Occaecat in cupidatat sunt elit adipisicing mollit adipisicing fugiat. Nisi non nisi ea reprehenderit excepteur anim do nisi amet anim.\r\n",
       "website": "http://www.dragbot.com",
-      "amenities": ["pool", "restaturant", "bar"]
-    }, {
+      "amenities": [
+        "pool",
+        "restaturant",
+        "bar"
+      ]
+    },
+    {
       "id": "5aa2a81f93b33cda1e741812",
       "name": "Filodyne Rocklogic Paradise",
+      "distance_from_venue": 630.5,
       "price_category": "low",
-      "rating": 5,
-      "images": ["https://images.pexels.com/photos/545034/pexels-photo-545034.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "rating": 4.81,
+      "images": [
+        "https://images.pexels.com/photos/545034/pexels-photo-545034.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/53577/hotel-architectural-tourism-travel-53577.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "135 Bouck Court, 8071",
       "latitude": -34.60368440000001,
@@ -31,13 +47,24 @@
       "phone": "+6 (900) 449-3113",
       "description": "Cupidatat sint aliqua in elit pariatur cupidatat et. Ullamco consequat deserunt dolore sit proident. Et nisi minim dolore qui officia ipsum dolore amet veniam laboris esse ut ipsum. Ullamco et sunt occaecat id dolore duis.\r\n",
       "website": "http://www.viocular.com",
-      "amenities": ["pool", "spa", "ac", "bar"]
-    }, {
+      "amenities": [
+        "pool",
+        "spa",
+        "ac",
+        "bar"
+      ]
+    },
+    {
       "id": "5aa2a81f93b33cda1e741813",
       "name": "Cinaster Zenolux Hotel",
       "price_category": "high",
-      "rating": 2,
-      "images": ["https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "distance_from_venue": 150.56,
+      "rating": 2.93,
+      "images": [
+        "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "368 Evergreen Avenue, 6377",
       "latitude": -34.61146475570688,
@@ -47,13 +74,26 @@
       "phone": "+41 (993) 470-2632",
       "description": "Excepteur adipisicing esse commodo elit reprehenderit amet reprehenderit. Culpa ea minim aliqua dolor. Laborum tempor ea sit Lorem quis est proident officia tempor.\r\n",
       "website": "http://www.viagrand.com",
-      "amenities": ["wifi", "pool", "parking", "ac", "restaturant"]
-    }, {
+      "amenities": [
+        "wifi",
+        "pool",
+        "parking",
+        "ac",
+        "restaturant"
+      ]
+    },
+    {
       "id": "5aa2a87f93b33cda1e7420b1",
       "name": "Soprano Avenetro Resort",
       "price_category": "high",
-      "rating": 4,
-      "images": ["https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "distance_from_venue": 950.3,
+      "rating": 4.15,
+      "images": [
+        "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "516 Wolf Place, 1871",
       "latitude": 40.7127753,
@@ -63,13 +103,26 @@
       "phone": "+27 (819) 570-2206",
       "description": "Amet sunt tempor officia incididunt proident labore est enim irure ad consectetur minim nisi. Qui minim exercitation sit irure ad duis enim. Sint sint ut aute labore ad laboris ad in occaecat minim esse. Sint irure amet ut culpa proident.\r\n",
       "website": "http://www.kangle.com",
-      "amenities": ["pool", "spa", "ac", "restaturant", "bar", "gym"]
-    }, {
+      "amenities": [
+        "pool",
+        "spa",
+        "ac",
+        "restaturant",
+        "bar",
+        "gym"
+      ]
+    },
+    {
       "id": "5aa2a87f93b33cda1e7420b2",
       "name": "Balooba Puria Paradise",
+      "distance_from_venue": 1050.28,
       "price_category": "low",
-      "rating": 5,
-      "images": ["https://images.pexels.com/photos/460537/pexels-photo-460537.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/573552/pexels-photo-573552.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/261411/pexels-photo-261411.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "rating": 4.42,
+      "images": [
+        "https://images.pexels.com/photos/460537/pexels-photo-460537.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/573552/pexels-photo-573552.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/261411/pexels-photo-261411.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "688 Surf Avenue, 4699",
       "latitude": 40.73893324113601,
@@ -79,13 +132,23 @@
       "phone": "+3 (842) 569-2205",
       "description": "Do et ex veniam commodo. Ullamco minim minim incididunt culpa exercitation amet dolore aliqua dolore aute mollit. Anim eu dolore culpa est sint. Fugiat nulla dolore esse sint nisi consectetur pariatur ex nisi non velit eu ipsum. Veniam dolore duis ut officia cupidatat. Ut commodo enim ipsum Lorem consequat excepteur velit culpa dolor.\r\n",
       "website": "http://www.kidstock.com",
-      "amenities": ["parking", "ac", "bar"]
-    }, {
+      "amenities": [
+        "parking",
+        "ac",
+        "bar"
+      ]
+    },
+    {
       "id": "5aa2a87f93b33cda1e7420b3",
       "name": "Exoplode Kaggle Hotel",
       "price_category": "low",
-      "rating": 5,
-      "images": ["https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "distance_from_venue": 150.82,
+      "rating": 4.25,
+      "images": [
+        "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "555 Kaufman Place, 4519",
       "latitude": 40.650968201430814,
@@ -95,13 +158,23 @@
       "phone": "+59 (978) 530-2390",
       "description": "Consectetur pariatur exercitation quis voluptate esse reprehenderit velit eiusmod. Commodo velit consequat do pariatur enim mollit minim amet laboris deserunt sit amet. Commodo Lorem sint magna proident quis cupidatat fugiat elit culpa. Ex aute esse id aliqua deserunt irure consectetur cillum fugiat duis proident non commodo. Dolore velit nulla quis dolor aliquip deserunt nisi dolor velit reprehenderit. Irure sit duis magna in ullamco ex ullamco pariatur elit minim dolore.\r\n",
       "website": "http://www.cujo.com",
-      "amenities": ["restaturant", "gym"]
-    }, {
+      "amenities": [
+        "restaturant",
+        "gym"
+      ]
+    },
+    {
       "id": "5aa2a87f93b33cda1e7420b4",
       "name": "Yogasm Tourmania Paradise",
+      "distance_from_venue": 360.7,
       "price_category": "medium",
-      "rating": 3,
-      "images": ["https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/97904/pexels-photo-97904.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "rating": 3.75,
+      "images": [
+        "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/97904/pexels-photo-97904.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "425 Johnson Avenue, 8787",
       "latitude": 40.862178191169015,
@@ -111,13 +184,24 @@
       "phone": "+53 (960) 473-2577",
       "description": "Anim ea esse consequat nisi ipsum qui sit aliqua irure magna irure eiusmod. Enim dolor quis dolore deserunt. Sit consectetur culpa officia ut ad ea. Excepteur enim anim labore excepteur magna est occaecat.\r\n",
       "website": "http://www.comvex.com",
-      "amenities": ["restaturant", "gym"]
-    }, {
+      "amenities": [
+        "restaturant",
+        "gym"
+      ]
+    },
+    {
       "id": "5aa2a6c393b33cda1e73fa1b",
       "name": "Globoil Xiix Paradise",
+      "distance_from_venue": 850.3,
       "price_category": "high",
-      "rating": 1,
-      "images": ["https://images.pexels.com/photos/573552/pexels-photo-573552.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/600622/pexels-photo-600622.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "rating": 2.89,
+      "images": [
+        "https://images.pexels.com/photos/573552/pexels-photo-573552.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/600622/pexels-photo-600622.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "779 Provost Street, 5614",
       "latitude": 48.88281011810426,
@@ -127,13 +211,27 @@
       "phone": "+35 (904) 409-3388",
       "description": "Aliquip amet Lorem commodo amet laborum consectetur officia consequat proident. Do amet proident pariatur exercitation magna quis officia. Duis ullamco do qui Lorem proident fugiat veniam aliqua Lorem culpa. Commodo adipisicing aliquip deserunt ullamco cupidatat. Id est aute mollit anim nulla labore sit.\r\n",
       "website": "http://www.ramjob.com",
-      "amenities": ["wifi", "pool", "ac", "restaturant", "bar", "gym"]
-    }, {
+      "amenities": [
+        "wifi",
+        "pool",
+        "ac",
+        "restaturant",
+        "bar",
+        "gym"
+      ]
+    },
+    {
       "id": "5aa2a6c393b33cda1e73fa1d",
       "name": "Biolive Sultrax Hotel",
-      "price_category": "high",
-      "rating": 2,
-      "images": ["https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/9376/groningen-the-netherlands.jpg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb", "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"],
+      "distance_from_venue": 432.63,
+      "price_category": "medium",
+      "rating": 3.56,
+      "images": [
+        "https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/9376/groningen-the-netherlands.jpg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb",
+        "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+      ],
       "city": "Amsterdam",
       "address": "235 Beverly Road, 4931",
       "latitude": 48.83752725734812,
@@ -143,109 +241,114 @@
       "phone": "+14 (831) 515-3706",
       "description": "Reprehenderit cupidatat eu commodo exercitation proident anim. Cupidatat velit aute irure voluptate labore eiusmod ullamco nostrud mollit labore. Dolor fugiat labore dolore nisi. Est tempor quis excepteur minim commodo ad id anim tempor esse. Aliquip elit pariatur culpa ea cillum consectetur aliquip adipisicing sunt exercitation magna mollit. Quis nulla incididunt id cillum. Nisi quis do deserunt quis anim sunt sint.\r\n",
       "website": "http://www.ecratic.com",
-      "amenities": ["wifi", "pool", "parking"]
-  }],
+      "amenities": [
+        "wifi",
+        "pool",
+        "parking"
+      ]
+    }
+  ],
   "rooms": [
     {
       "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 78.90,
+      "price_in_usd": 78.9,
       "hotel_id": "5aa2a75693b33cda1e740407"
     },
     {
-      "id": "bf2b9854-7cec-47bf-ba3d-3ba765061db7",
+      "id": "bf2b9854-7cec-47bf-ba3d-3ba765061dc7",
       "name": "Super Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 98.90,
+      "price_in_usd": 98.9,
       "hotel_id": "5aa2a75693b33cda1e740407"
     },
     {
       "id": "bf2b9854-7cfc-47bf-ba3d-3ba765061db7",
       "name": "Presidential suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 198.90,
+      "price_in_usd": 198.9,
       "hotel_id": "5aa2a75693b33cda1e740407"
     },
     {
       "id": "bf2b9853-7csc-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 58.90,
+      "price_in_usd": 58.9,
       "hotel_id": "5aa2a81f93b33cda1e741812"
     },
     {
-      "id": "bg2b9854-7cec-47bf-ba3d-3ba765061db7",
+      "id": "b12b9854-7cec-47bf-ba3d-3ba765061db7",
       "name": "Super Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 98.90,
+      "price_in_usd": 98.9,
       "hotel_id": "5aa2a81f93b33cda1e741812"
     },
     {
-      "id": "bhb9853-7cec-47bf-ba3d-3ba765061db7",
+      "id": "b6b9853-7cec-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 68.40,
+      "price_in_usd": 68.4,
       "hotel_id": "5aa2a81f93b33cda1e741813"
     },
     {
       "id": "bf3b9854-7cec-47bf-ba3d-3ba765061db6",
       "name": "Premium suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 108.90,
+      "price_in_usd": 108.9,
       "hotel_id": "5aa2a81f93b33cda1e741813"
     },
     {
-      "id": "bhb9853-7cec-57bf-ba3d-3ba765061db7",
+      "id": "b8b9853-7cec-57bf-ba3d-3ba765061db7",
       "name": "Pool View Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 128.40,
+      "price_in_usd": 128.4,
       "hotel_id": "5aa2a81f93b33cda1e741813"
     },
     {
       "id": "bf3b9854-7cec-67bf-ba3d-3ba765061db6",
       "name": "Pool View Premium Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 188.90,
+      "price_in_usd": 188.9,
       "hotel_id": "5aa2a81f93b33cda1e741813"
     },
     {
       "id": "bf2b9853-7cec-47bf-ba3d-3ba765061de7",
       "name": "Double suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 78.90,
+      "price_in_usd": 78.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b1"
     },
     {
       "id": "bf2b9854-7cec-47bf-ba3d-3ba765061df7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 158.90,
+      "price_in_usd": 158.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b1"
     },
     {
       "id": "bf2b9854-7cec-47bf-ba3d-3bb765061df7",
       "name": "Family suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 98.90,
+      "price_in_usd": 98.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b1"
     },
     {
       "id": "bf2b9854-7cec-47bf-ba3d-3be765061df7",
       "name": "Presidential suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
       "price_in_usd": 208.99,
       "hotel_id": "5aa2a87f93b33cda1e7420b1"
@@ -253,103 +356,103 @@
     {
       "id": "bf2c9853-7cec-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 78.90,
+      "price_in_usd": 78.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b2"
     },
     {
       "id": "bf2b9754-7cec-47bf-ba3d-3ba765061db7",
       "name": "Super Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 98.90,
+      "price_in_usd": 98.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b2"
     },
     {
       "id": "bf2b9864-7cfc-47bf-ba3d-3ba765061db7",
       "name": "Presidential suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 198.90,
+      "price_in_usd": 198.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b2"
     },
     {
       "id": "bf2b9853-7csd-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 58.90,
+      "price_in_usd": 58.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b3"
     },
     {
-      "id": "bg2b9854-7ced-47bf-ba3d-3ba765061db7",
+      "id": "b92b9854-7ced-47bf-ba3d-3ba765061db7",
       "name": "Super Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 98.90,
+      "price_in_usd": 98.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b3"
     },
     {
-      "id": "bhb9853-7hec-47bf-ba3d-3ba765061db7",
+      "id": "b9b9853-7hec-47bf-ba3d-3ba765061db7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 68.40,
+      "price_in_usd": 68.4,
       "hotel_id": "5aa2a87f93b33cda1e7420b4"
     },
     {
       "id": "bf3b9854-7aec-47bf-ba3d-3ba765061db6",
       "name": "Premium suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 108.90,
+      "price_in_usd": 108.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b4"
     },
     {
-      "id": "bhb9853-7bec-57bf-ba3d-3ba765061db7",
+      "id": "b3b9853-7bec-57bf-ba3d-3ba765061db7",
       "name": "Pool View Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 128.40,
+      "price_in_usd": 128.4,
       "hotel_id": "5aa2a87f93b33cda1e7420b4"
     },
     {
       "id": "bf3b9855-7aec-67bf-ba3d-3ba765061db6",
       "name": "Pool View Premium Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 188.90,
+      "price_in_usd": 188.9,
       "hotel_id": "5aa2a87f93b33cda1e7420b4"
     },
     {
       "id": "bf2b9853-7bec-47bf-ba3d-3ba765061de7",
       "name": "Double suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 78.90,
+      "price_in_usd": 78.9,
       "hotel_id": "5aa2a6c393b33cda1e73fa1b"
     },
     {
       "id": "bf2b9854-7fcc-47bf-ba3d-3ba765061df7",
       "name": "Deluxe suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 2,
-      "price_in_usd": 108.90,
+      "price_in_usd": 108.9,
       "hotel_id": "5aa2a6c393b33cda1e73fa1b"
     },
     {
       "id": "bf2b98545-7fcc-47bf-ba3d-3bb765061df7",
       "name": "Family suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
-      "price_in_usd": 140.90,
+      "price_in_usd": 140.9,
       "hotel_id": "5aa2a6c393b33cda1e73fa1b"
     },
     {
       "id": "bf2b9854-7ced-47bf-ba3d-3be765061df7",
       "name": "Presidential suite",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "max_occupancy": 4,
       "price_in_usd": 208.99,
       "hotel_id": "5aa2a6c393b33cda1e73fa1b"
